@@ -38,7 +38,7 @@ The dashboard provides a clear view of overall sales, item performance, outlet a
 - Outlet-wise Sales Performance
 
 ## 🖼 Dashboard Preview
-![Blinkit Sales Dashboard](dashboard.png)
+![Blinkit Sales Dashboard](image_2025-12-24_190502284.png)
 
 ## 🎯 Target Role
 Data Analyst
